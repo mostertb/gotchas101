@@ -1,0 +1,12 @@
+{
+    "name": "mostertb/gotchas101",
+    "require": {
+        "symfony/var-dumper": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Brad Mostert",
+            "email": "bradm@afrihost.com"
+        }
+    ]
+}
